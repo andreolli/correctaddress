@@ -9,5 +9,5 @@ addons:
   postgresql: "9.5"
 
 before_script:
-  - cp config/database.travis.yml config/database.yml
+  - cp config/database.yml.travis config/database.yml
   - psql -c 'create database correctaddress_test;' -U postgres
