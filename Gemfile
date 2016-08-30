@@ -37,6 +37,10 @@ group :development, :test do
   gem 'byebug'
   # Enable rspec tests
   gem 'rspec-rails', '~> 3.5'
+  # Enable rake cucumber
+  gem 'cucumber-rails', :require => false
+  # database_cleaner is not required, but highly recommended
+  gem 'database_cleaner'
 end
 
 group :development do
