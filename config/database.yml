@@ -90,8 +90,8 @@ test: &test
 #
 production:
   <<: *default
-  database: correctaddressdbp
-  username: postgres
+  database: XXX
+  username: XXX
   password: <%= ENV['CORRECTADDRESS_DATABASE_PASSWORD'] %>
 
 cucumber:
