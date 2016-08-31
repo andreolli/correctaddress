@@ -5,8 +5,7 @@
 [![Coverage Status][CS img]][Coverage Status]
 
 ## Description  
-Service designed to correct brazilian addresses.  
-Corrects phonetic errors, postcode and wrong chars, considering the addresses registered in Open Street Map.  
+Brazilian addresses fixer. Find and fix addresses that may be invalid or have input errors, returning valid addresses in a formatted standard.  
 
 ## Links
 App on Heroku: https://correctaddress.herokuapp.com/  
