@@ -14,8 +14,8 @@ Project Tracker: https://www.pivotaltracker.com/n/projects/1856419
 
 ## Members
 David Silva Martins de Andrade  
-Fabio Andreolli Leivas
-Jean Adam Calixto do Valle
+Fabio Andreolli Leivas  
+Jean Adam Calixto do Valle  
 
 [Build Status]: https://travis-ci.org/andreolli/correctaddress
 [travis pull requests]: https://travis-ci.org/andreolli/correctaddress/pull_requests
